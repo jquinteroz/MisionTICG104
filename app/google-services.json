@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "276452187817",
+    "firebase_url": "https://tiendamisiontic-default-rtdb.firebaseio.com",
+    "project_id": "tiendamisiontic",
+    "storage_bucket": "tiendamisiontic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276452187817:android:7aa1da2147e42172e753b8",
+        "android_client_info": {
+          "package_name": "com.example.nivelacion1234"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZ0pXxFcL1hXhSUQrJMUClVUxEmMb6Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276452187817:android:3b1724df15b975d3e753b8",
+        "android_client_info": {
+          "package_name": "com.example.storemisintic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZ0pXxFcL1hXhSUQrJMUClVUxEmMb6Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276452187817:android:ac4f1a634ba63da1e753b8",
+        "android_client_info": {
+          "package_name": "com.example.tiendamtic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZ0pXxFcL1hXhSUQrJMUClVUxEmMb6Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276452187817-4khoams2652c21a6nludks03laoamh1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

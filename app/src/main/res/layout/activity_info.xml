@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/w2"
+    tools:context=".Info">
+
+    <TextView
+        android:id="@+id/textNameInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="60dp"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/imginfo"
+        android:layout_width="300dp"
+        android:layout_height="467dp"
+
+        app:srcCompat="@drawable/poke" />
+
+    <TextView
+        android:id="@+id/textDescriptionInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textPriceInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btnInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_baseline_arrow_back_24"
+
+        android:text="" />
+</LinearLayout>
